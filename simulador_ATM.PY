@@ -84,6 +84,7 @@ while True:
     elif opcao == 'q':
         print("Obrigado por usar nosso banco. Volte sempre!")
         break
+    
 
     # --- Opção Inválida ---
     else:
